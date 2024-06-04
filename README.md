@@ -1,4 +1,4 @@
-# Nombre de la aplicación - Diseño del Sistema
+# FB Books - Diseño del Sistema
 Begher Federico
 
 Diseño Orientado Objetos - Tecnicatura de Programacion de sistemas

@@ -44,3 +44,5 @@ El sistema debe facilitar la gestión automatizada de préstamos y devoluciones,
 [DiagramaCasosDeUso](https://app.diagrams.net/#G10-LK4zc53QJe0FoZ2SgJMnDzxnEb0kw9#%7B%22pageId%22%3A%22GYp26N57ceZuKNrQMWUF%22%7D)
 
 [EscenariosCasosDeUso](https://docs.google.com/spreadsheets/d/1DIVOxkMBt0ysLOvnVTGMsxJzH4owfSdzJIvrOIagWw0/edit#gid=0)
+
+[MatrizCLAE](https://docs.google.com/spreadsheets/d/1i85ordIUXZOvn8yOG9LnaWC6iuJDyvPYZ1w0glFE7c8/edit?gid=0#gid=0)

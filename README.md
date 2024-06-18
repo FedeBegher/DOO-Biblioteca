@@ -8,7 +8,7 @@ Matias Velasquez
 2024
 
 ## Introducción
-El proiposito de este sistema de Gestion Bibliotecario es, mejorar la eficacia  y las defierentes operaciones que se pueden llevar a cabo dentro de la biblioteca, facilitando asi los distintos procesos: Registro de Usuarios, organizacion de libros, consulta de prestamos y devoluciones, multas y disponibilidad de los libros.
+El proposito de este sistema de Gestion Bibliotecario es, mejorar la eficacia  de las defierentes operaciones que se pueden llevar a cabo dentro de la biblioteca, facilitando asi los distintos procesos: Registro de Usuarios, organizacion de libros, consulta de prestamos y devoluciones, multas y disponibilidad de los libros.
 Con la implementacion de esta aplicacion, lo que se busca es que los diferentes usuarios, tengan un sistema facil de usar e intuitivo para asi tener una mejor experiencia dentro de la biblioteca.
 
 

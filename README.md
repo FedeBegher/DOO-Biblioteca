@@ -8,41 +8,11 @@ Matias Velasquez
 2024
 
 ## Introducción
+El proiposito de este sistema de Gestion Bibliotecario es, mejorar la eficacia  y las defierentes operaciones que se pueden llevar a cabo dentro de la biblioteca, facilitando asi los distintos procesos: Registro de Usuarios, organizacion de libros, consulta de prestamos y devoluciones, multas y disponibilidad de los libros.
+Con la implementacion de esta aplicacion, lo que se busca es que los diferentes usuarios, tengan un sistema facil de usar e intuitivo para asi tener una mejor experiencia dentro de la biblioteca.
 
-1-Esbozo del diseño: 
- 
-Libro: 
-Atributos: título, autor, género, número de ejemplar disponible 
- 
-Socio o Usuario: 
-Atributos: Nombre, Dirección, Número de teléfono  
- 
-Préstamos: 
-Atributos: Estado, fecha de préstamos, fecha de devolución. 
- 
-Casos de Uso:
 
--Buscar Libro 
-Descripción: Permite a los usuarios buscar libros en el sistema por título, autor, género, etc. 
-Actores: Usuario 
- 
-Registrar Usuario: 
-Descripción: Permite al bibliotecario registrar un nuevo usuario en el sistema. 
-Actores: Bibliotecario 
- 
-Realizar Préstamo: 
-Descripción: Permite a los usuarios tomar prestados libros del sistema. 
-Actores: Usuario, Bibliotecario 
- 
-Realizar Devolución: 
-Descripción: Permite a los usuarios devolver los libros prestados al sistema. 
-Actores: Usuario, Bibliotecario 
- 
-Consultar Disponibilidad de Libros: 
-Descripción: Permite a los usuarios verificar la disponibilidad de libros en la biblioteca. 
-Actores: Usuario 
-
- 2- Requisitos iniciales: 
+  Requisitos iniciales: 
 
 Registro Automático de Libros: 
 El sistema debe permitir el registro automatizado de nuevos libros, incluyendo su título, autor, género y número de ejemplares disponibles. 

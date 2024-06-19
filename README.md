@@ -29,15 +29,18 @@ El sistema debe facilitar la gestión automatizada de préstamos y devoluciones,
 
 ## Diagramas y Diseños
 
+
 [DiagramaDeClases](https://app.diagrams.net/#G1WpmejF1YOzCUxnjLqyXZoLUAHTx-ypx4#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
 
 [DiagramaDeSecuencias](https://app.diagrams.net/#G1C1jtyTUjQUMGAkRIX_QqGX9aANyNpHwt#%7B%22pageId%22%3A%22x_g9JUnUHGD1hmeVAa40%22%7D)
+### Diagrama de Actividades:
 
-[RegistrarUusario](https://app.diagrams.net/#G15vNEphF81aPyaZAPphQjnH2hIzaQqg6u#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
+1[RegistrarUusario](https://app.diagrams.net/#G15vNEphF81aPyaZAPphQjnH2hIzaQqg6u#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
 
-[PrestamoLibro](https://app.diagrams.net/#G16V7oLK1Lmm2Dcx_xqmTMNTDvq9mhZdNj#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
+2[PrestamoLibro](https://app.diagrams.net/#G16V7oLK1Lmm2Dcx_xqmTMNTDvq9mhZdNj#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
 
-[RealizarDevolucion](https://app.diagrams.net/#G1Pp9c__A6nFf5C7FjU4z0uFkSy_6Ngqlt)
+3[RealizarDevolucion](https://app.diagrams.net/#G1Pp9c__A6nFf5C7FjU4z0uFkSy_6Ngqlt)
+
 
 [TarjetasCRC](https://app.diagrams.net/#G1caI3-QqCJ9-YedmQZCqNLs8pFX1Tea9_#%7B%22pageId%22%3A%22gNZdTqPgd1IVgwbAj1xb%22%7D)
 

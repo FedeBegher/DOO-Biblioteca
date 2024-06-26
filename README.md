@@ -30,7 +30,7 @@ El sistema debe facilitar la gestión automatizada de préstamos y devoluciones,
 ## Diagramas y Diseños
 
 
-[DiagramaDeClases](https://app.diagrams.net/#G1WpmejF1YOzCUxnjLqyXZoLUAHTx-ypx4#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
+[DiagramaDeClases](https://app.diagrams.net/#G1ozmoFEjxoTDTmLCkRW8nvVGy-_rVyxjG#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
 
 [DiagramaDeSecuencias](https://app.diagrams.net/#G1C1jtyTUjQUMGAkRIX_QqGX9aANyNpHwt#%7B%22pageId%22%3A%22x_g9JUnUHGD1hmeVAa40%22%7D)
 ### Diagrama de Actividades:
